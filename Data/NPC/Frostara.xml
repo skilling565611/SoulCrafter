@@ -1,0 +1,15 @@
+<NPC>
+<Name>Frostara</Name>
+<Sex>Female</Sex>
+<Age>2</Age>
+<AgeDisplay>2 years</AgeDisplay>
+<Species>Alolan Vulpix</Species>
+<Variant>Ice/Fairy</Variant>
+<Body>
+<Race>Vulpine</Race>
+</Body>
+<Behavior>
+<CurrentState>Curled in a hollow beneath a frozen willow.</CurrentState>
+</Behavior>
+<Backstory>Born during a freak blizzard, Frostara was the sole survivor of her litter.</Backstory>
+</NPC>
