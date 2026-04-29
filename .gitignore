@@ -19,10 +19,7 @@ dist/
 .vscode/
 .idea/
 
-# Logs
-*.log
-Logs/
-LOG/
+
 
 # Saves / generated data
 Data/Saves/

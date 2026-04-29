@@ -1,0 +1,10 @@
+.LOG=
+[SoulCrafter Initial Setup]:{
+    Created initial project structure.
+    Added Python .gitignore.
+    Added Core Body, Player, and NPC classes.
+    Added XML loader foundation.
+    Added save/load system.
+    Added first Frostara XML test NPC.
+    Added README project notes.
+}
